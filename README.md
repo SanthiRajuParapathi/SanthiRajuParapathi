@@ -1,4 +1,4 @@
-<h2 align="center">Hi 👋! My name is Santhi Raju and I'm a  , from ....</h2>
+<h2 align="center">Hi 👋! My name is Santhi Raju, a 3rd-year undergraduate student in Electronics and Communication Engineering, passionate about cloud computing and software development. I have experience up to the AWS Cloud Practitioner level, including cloud setup, automation, and optimization, and I’m proficient in Java programming at an intermediate level. I’m looking for an internship where I can apply my cloud and coding skills, gain real-world experience, and grow in a dynamic environment.</h2>
 
 ###
 
@@ -28,7 +28,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="30" alt="github logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="30" alt="linkedin logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="30" alt="linux logo"  />
 </div>
 
 ###
