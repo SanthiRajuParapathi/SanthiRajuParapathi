@@ -1,4 +1,7 @@
-<h2 align="center">Hi 👋! My name is Santhi Raju, a 3rd-year undergraduate student in Electronics and Communication Engineering, passionate about cloud computing and software development. I have experience up to the AWS Cloud Practitioner level, including cloud setup, automation, and optimization, and I’m proficient in Java programming at an intermediate level. I’m looking for an internship where I can apply my cloud and coding skills, gain real-world experience, and grow in a dynamic environment.</h2>
+<h2 align="center">👋 Hi! My name is Santhi Raju, a 4th-year undergraduate student in Electronics and Communication Engineering, passionate about cloud computing and software development.
+☁️ I have experience working with AWS, including cloud setup, automation, and optimization.
+💻 I'm proficient in Java programming and enjoy building clean, reliable backend systems.
+🚀 I'm focused on applying my skills to solve real-world problems and continuously grow as a developer in a collaborative environment.</h2>
 
 ###
 
